@@ -2,7 +2,7 @@
 <%@taglib prefix="tag" tagdir="/WEB-INF/tags" %>
 <style>
    body {
-      background: url(back.jpg);
+      background: url(background.jpg);
       background-attachment: fixed;
       background-repeat: no-repeat;
       background-size: cover
