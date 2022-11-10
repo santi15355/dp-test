@@ -23,7 +23,7 @@ public class App {
         if (port != null) {
             return Integer.valueOf(port);
         }
-        return 5000;
+        return 80;
     }
 
     public static Tomcat getApp(int port) {
