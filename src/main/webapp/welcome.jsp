@@ -1,5 +1,14 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@taglib prefix="tag" tagdir="/WEB-INF/tags" %>
+<style>
+   body {
+      background: url(back.jpg);
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: cover
+   }
+   </style>
+
 
 <tag:application>
     <div class="card">
